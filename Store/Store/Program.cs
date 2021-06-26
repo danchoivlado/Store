@@ -8,6 +8,7 @@ namespace Store
         static void Main(string[] args)
         {
             var testEngine = new TestEngine();
+
             testEngine.Run();
         }
     }
